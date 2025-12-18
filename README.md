@@ -25,14 +25,17 @@ You can see the past public audit results at [Sherlock](https://audits.sherlock.
 
 # Audits
 
-| ID  | Protocol    | Language | Description                              |    Findings    | Report  |
-| :-- | :---------- | :------- | :--------------------------------------- | :------------: | :-----: |
-| 1   | Pump.fun    | Rust     | Undisclosed                              | Undisclosed    | Private |
-| 2   | Undisclosed | Rust     | Token launchpad with automated liquidity | 4 H, 1 M, 4 L  | Private |
-| 3   | Undisclosed | Rust     | NFT Ads Market                           | 1 H, 5 M, 7 L  | Private |
-| 4   | Undisclosed | Solidity | Orderbook DEX                            | 2 H, 3 M, 9 L  | Private |
-| 5   | Undisclosed | Rust     | Token launchpad                          | 9 H, 5 M, 8 L  | Private |
-| 6   | Undisclosed | Rust     | Escrow service                           | 2 H, 3 M, 11 L | Private |
+| ID  | Protocol    | Language | Description                                |    Findings    | Report  |
+| :-- | :---------- | :------- | :----------------------------------------- | :------------: | :-----: |
+| 1   | Pump.fun    | Rust     | Undisclosed                                | Undisclosed    | Private |
+| 2   | Undisclosed | Rust     | Token launchpad with automated liquidity   | 4 H, 1 M, 4 L  | Private |
+| 3   | Undisclosed | Rust     | NFT Ads Market                             | 1 H, 5 M, 7 L  | Private |
+| 4   | Undisclosed | Solidity | Orderbook DEX                              | 2 H, 3 M, 9 L  | Private |
+| 5   | Undisclosed | Rust     | Token launchpad                            | 9 H, 5 M, 8 L  | Private |
+| 6   | Undisclosed | Rust     | Escrow service                             | 2 H, 3 M, 11 L | Private |
+| 7   | Undisclosed | Solidity | RWA tokenisation & UniswapV4 Hook          | 1 H, 4 M, 17 L | Private |
+| 8   | Undisclosed | Solidity | Perpetual DEX                              | 5 H, 6 M, 24 L | Private |
+| 9   | Undisclosed | Solidity | Cross chain token trading & UniswapV4 Hook | 5 M, 10 L      | Private |
 
 
 # Development
