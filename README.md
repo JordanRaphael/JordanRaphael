@@ -23,6 +23,7 @@ You can see the past public audit results at [Sherlock](https://audits.sherlock.
 | 6   | 01/2025  | Hats Finance   | DAOsis              | Solidity         | Platform for investing in innovative projects + governance voting           | 1 H, 3 L     | N/A                                                            | 🥇 #1     |
 | 7   | 06/2025  | Hats Finance   | dTRINITY            | Solidity         | First subsidized stablecoin protocol – pays interest rebates to borrowers   | 2 M, 1 L     | N/A                                                            | 🥈 #2     |
 | 8   | 11/2025  | Dual Guard     | Alignerz            | Solidity         | Next-gen launchpad with IWO model + Tradable Vesting Schedules (TVS)        | 10 H, 1 M    | N/A                                                            | 🥉 #3     |
+| 9   | 08/2026  | HackenProof   | 0xMarkets           | Solidity         | Decentralized perpetual futures on FX, crypto, and commodities.             | 11 H, 12 M, 4 L | N/A                                                            | 🥉 #3     |
 
 # Notable Achievements
 
